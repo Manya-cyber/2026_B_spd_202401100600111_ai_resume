@@ -1,0 +1,1 @@
+An intelligent recruitment system that automates resume screening using Natural Language Processing (NLP) and Machine Learning. It extracts key information from resumes, ranks candidates based on job description similarity, and provides actionable insights to hiring teams.
